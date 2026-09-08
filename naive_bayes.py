@@ -105,7 +105,7 @@ test case 5 -:
     
     
 test case 6 -:
-    GaussianNB bell curve gartiant distribution
+    GaussianNB bell curve gaussion distribution
     ac= 92 , bias = 87 , var = 92
     
 """
